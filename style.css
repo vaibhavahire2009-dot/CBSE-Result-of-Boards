@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+}
+
+header{
+    text-decoration: rgb(121, 103, 109) wavy underline;
+    background-color: rgb(177, 224, 216);
+    padding: 1px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+marquee{
+    font-size: 30px;
+    color: red;
+    background-color: white;
+    padding: 1px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+form{
+    border: 1px solid black;
+    margin: auto;
+    padding: 10px;
+    width:59%;
+    background-color: rgb(249, 249, 138);
+}
+
+
+h2{
+    font-family:cursive;
+}
